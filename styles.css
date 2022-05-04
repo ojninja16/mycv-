@@ -1,0 +1,135 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    font-size: 150%;
+   
+}
+
+a{color: #11999E;
+
+}
+
+.bhkk{
+    font-size: 2.5rem;
+    color: #ca53e8;
+    font-weight: normal
+}
+h1 {
+    margin-top: 50px auto 0 auto;
+    text-align: center;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size:5.625rem;
+    color:#f54ba6;
+    
+} 
+h2{font-family: 'Montserrat', sans-serif;
+    
+    color: #11999E;
+font-weight:normal
+
+}
+h3 {font-family: 'Montserrat', sans-serif;
+    
+    color: #66BFBF;
+}
+.a{
+    /* background-color: #B6FFCE; */
+    /* background-color: #7ed4f9; */
+    background: url("https://wallpaperaccess.com/full/2825712.gif") no-repeat center;
+    
+    
+    padding:30px;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.middle-container {
+    
+}
+.bottom-container {
+padding-bottom: 0;
+background-color: #aee3f8;
+margin: 40px auto auto auto;
+text-align: center;
+
+}
+#qd{
+    position: relative;
+    ;
+}
+.bottom_cloud{
+    position: absolute;
+    right: 1050px;
+}
+.top_cloud{
+    position: relative;
+    left: 340px;
+}
+.bd{
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+    .cd{
+        float: right;
+        margin-left: 30px;
+        border-radius: 100%;
+    }
+ .clearkro{
+     clear: left;
+ }   
+ .clearkre{
+     clear: right;
+ }
+ .btn {
+    background: #eb7bc2;
+    background-image: -webkit-linear-gradient(top, #eb7bc2, #31baf5);
+    background-image: -moz-linear-gradient(top, #eb7bc2, #31baf5);
+    background-image: -ms-linear-gradient(top, #eb7bc2, #31baf5);
+    background-image: -o-linear-gradient(top, #eb7bc2, #31baf5);
+    background-image: linear-gradient(to bottom, #eb7bc2, #31baf5);
+    -webkit-border-radius: 49;
+    -moz-border-radius: 49;
+    border-radius: 49px;
+    font-family: 'Major Mono Display', monospace;
+    color: #fafafa;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #73f0e6;
+    background-image: -webkit-linear-gradient(top, #73f0e6, #43ccf2);
+    background-image: -moz-linear-gradient(top, #73f0e6, #43ccf2);
+    background-image: -ms-linear-gradient(top, #73f0e6, #43ccf2);
+    background-image: -o-linear-gradient(top, #73f0e6, #43ccf2);
+    background-image: linear-gradient(to bottom, #73f0e6, #43ccf2);
+    text-decoration: none;
+  }
+  .profile{margin: 60px auto 100px auto;
+
+
+  }
+  hr{
+      color: #aeb3b3; 
+      border-style: dotted none none;
+      width:5%;
+      border-width: 5px;
+  }
+  .skills{
+      margin: 100px auto 100px auto;
+  }
+  .contact-me{
+      margin: 100px auto 100px auto;
+  }
+  .last{
+    font-family: 'IBM Plex Sans', sans-serif;
+  }
